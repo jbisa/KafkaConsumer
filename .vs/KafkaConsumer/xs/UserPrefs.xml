@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{31970F1F-EE0E-4997-9BD9-94A10C4FC2C7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="docker-compose.yml">
+    <Files>
+      <File FileName="Program.cs" Line="32" Column="40" />
+      <File FileName="docker-compose.yml" Line="16" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KafkaConsumer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

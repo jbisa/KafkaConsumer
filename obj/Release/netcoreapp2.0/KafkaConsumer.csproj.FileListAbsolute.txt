@@ -1,0 +1,10 @@
+/Users/jbisa/DevProjects/WebProjects/dot-net/KafkaConsumer/bin/Release/netcoreapp2.0/KafkaConsumer.deps.json
+/Users/jbisa/DevProjects/WebProjects/dot-net/KafkaConsumer/bin/Release/netcoreapp2.0/KafkaConsumer.runtimeconfig.json
+/Users/jbisa/DevProjects/WebProjects/dot-net/KafkaConsumer/bin/Release/netcoreapp2.0/KafkaConsumer.runtimeconfig.dev.json
+/Users/jbisa/DevProjects/WebProjects/dot-net/KafkaConsumer/bin/Release/netcoreapp2.0/KafkaConsumer.dll
+/Users/jbisa/DevProjects/WebProjects/dot-net/KafkaConsumer/bin/Release/netcoreapp2.0/KafkaConsumer.pdb
+/Users/jbisa/DevProjects/WebProjects/dot-net/KafkaConsumer/obj/Release/netcoreapp2.0/KafkaConsumer.csproj.CoreCompileInputs.cache
+/Users/jbisa/DevProjects/WebProjects/dot-net/KafkaConsumer/obj/Release/netcoreapp2.0/KafkaConsumer.AssemblyInfoInputs.cache
+/Users/jbisa/DevProjects/WebProjects/dot-net/KafkaConsumer/obj/Release/netcoreapp2.0/KafkaConsumer.AssemblyInfo.cs
+/Users/jbisa/DevProjects/WebProjects/dot-net/KafkaConsumer/obj/Release/netcoreapp2.0/KafkaConsumer.dll
+/Users/jbisa/DevProjects/WebProjects/dot-net/KafkaConsumer/obj/Release/netcoreapp2.0/KafkaConsumer.pdb
